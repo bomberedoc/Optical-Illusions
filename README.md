@@ -13,4 +13,9 @@ Required modules: Pygame, Math.
 This is coded in p5.js, a javascript library. You need an index file along linking to [this file](https://github.com/bomberedoc/Optical-Illusions/blob/master/Motion%20Induced%20Blindness.js) and a link to the p5 library to successfully run this. Change the frame rate in the file accordingly to get the besat illustration.
 
 ---
+[Ehrenstein Illusion](https://www.wikiwand.com/en/Ehrenstein_illusion) is an optical illusion illutrating in which the sides of a square placed inside a pattern of concentric circles take an apparent curved shape.
+
+Coded in p5.js with the use of p5 dom that includes 4 sliders to adjust the square and the circles. [Adjust](https://github.com/bomberedoc/Optical-Illusions/blob/master/Ehrenstein_illusion.js) these sliders to get a feel.
+
+---
 Will add gifs of these illustrations here in future.
